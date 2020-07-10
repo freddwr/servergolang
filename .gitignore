@@ -1,0 +1,103 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@freddwr
+GoesToEleven /
+go-programming
+
+49
+336
+
+    291
+
+Code
+Issues
+Pull requests 4
+Actions
+Projects
+Wiki
+Security
+
+    Insights
+
+go-programming/.gitignore
+@GoesToEleven
+GoesToEleven first commit
+Latest commit 35f6a60 on Jul 1, 2017
+History
+1 contributor
+executable file 56 lines (45 sloc) 649 Bytes
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
+
+# WebStorm
+*.iml
+
+# Directory-based project format:
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+# mac hidden files
+.DS_Store
+
+#other
+node_modules/
+bower_components/
+.tmp
+.sass-cache
+builds/**/images/*
+*.ogg
+*.mp3
+*.mp4
+#*.png
+#*.jpeg
+
+# security / ssl
+*.pem
+*.xxjson
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
